@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 // Connexion à MongoDB et démarrage du serveur
 mongoose
     .connect(
-        "mongodb+srv://tchamidev:alTJBq7zkDU1eZW8@backend.mwjwavc.mongodb.net/Node-API?retryWrites=true&w=majority&appName=Backend"
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     )
     .then(() => {
         console.log("Connected to MongoDB");
